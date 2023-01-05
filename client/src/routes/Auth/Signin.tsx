@@ -87,7 +87,7 @@ const Signin = () => {
         width={{
           base: "350px",
         }}
-        backgroundColor="rgba(255, 255, 255, 0.1)"
+        backgroundColor="rgba(0,0,255,0.3)"
         border="1px solid rgba(255, 255, 255, 0.05)"
         style={{
           backdropFilter: "blur(10px)",
